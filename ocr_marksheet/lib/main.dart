@@ -12,7 +12,7 @@ class homePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.red[900],
+      backgroundColor: Colors.white70,
       appBar: AppBar(
         title: Text('OCR MARKSHEET'),
         centerTitle: true,
