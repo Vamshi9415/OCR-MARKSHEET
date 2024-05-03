@@ -1,0 +1,4 @@
+question_number,sub_question,description,level,Co,Marks
+1,a,"Describe the relationships of UML with their notations (b) in a Library Information System, Faculty or Student can request for a book. Considering the general functioning of issuing a book, draw a sequence diagram to realize the same. Convert the sequencediagram to a collaboration diagram",Level-4,4,6
+1,b,Define (i) Coupling (ii) Cohesion (iii) Scope of effect (iv) Scope of control,Level-2,4,4
+2,a,What is a structured system? Write a procedure with an example to convert DFD to Structure chart using transform-centred method,Level-4,5,4
