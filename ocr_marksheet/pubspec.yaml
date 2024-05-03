@@ -36,8 +36,20 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
 
-  image_picker: any
-  http: any
+  image_picker: ^1.0.7
+  http: ^1.2.1
+  image_cropper: ^5.0.1
+  path_provider: ^2.0.1
+  firebase_core: ^2.27.2
+  permission_handler: ^10.2.0
+  image_editor: ^1.4.0
+  downloads_path_provider_28: ^0.1.2
+  xml: ^6.5.0
+  editable: ^2.0.0
+  sqflite: ^2.3.3
+  mysql_client: ^0.0.27
+  animate_do: ^3.3.4
+  syncfusion_flutter_xlsio: ^25.1.41
 dev_dependencies:
   flutter_test:
     sdk: flutter

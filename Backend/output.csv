@@ -1,0 +1,5 @@
+question_number,sub_question,description,level,Co,Marks
+1,a,Explain (i) Test First Development (ii) Pair programming,Level-2,1,4
+1,b,Discuss SCRUM framework of software development. Which drawbacks of waterfall model are addressed,Level-2,1,6
+2,a,Explain the various mechanisms for identifying analysis classes,Level-3,2,4
+2,b,"Considering the library information system that involves issue, return and purchase of books. Draw a use case diagram and write use case specification for one of the use cases. You may make your assumptions if",Level-5,2,6

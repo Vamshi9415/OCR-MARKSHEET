@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854474515407",
+    "project_id": "ocr-marksheet",
+    "storage_bucket": "ocr-marksheet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854474515407:android:6227be1ec91355a82fe8ba",
+        "android_client_info": {
+          "package_name": "com.example.ocr_marksheet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn_EQJKTrEqhjAu8Aq-IqmPMxCAnKL7_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+UNIVERSITY OF HYDERABAD
+School of Computer and Information Sciences
+
+I.Mtech VI 2023-24
+
+Time: 1 Hour Software Engineering Max.Marks: 20
+
+Minor-2 (19-03-2024)
+Answer the following Questions
+
+1. (a) Describe the relationships of UML with their notations
+(b) in a Library Information System, Faculty or Student can request for a book. Considering the general
+functioning of issuing a book, draw a sequence diagram to realize the same. Convert the sequence
+
+diagram to a collaboration diagram (6M)(CO-4,Level-4)
+
+(4M)(CO-4, Levei-2}
+
+2. (a) Define (i) Coupling (ii) Cohesion (iii) Scope of effect (iv) Scope of control (4M) (CO-5, Level-2)
+(b) What is a structured system? Write a procedure with an example to convert DFD to Structure chart using
+transform-centred method (6M) (CO-5,Level-4)
